@@ -49,6 +49,6 @@ ol, ul {
   margin-left: 20px;
 }
 
-.bold {
+.current-move, .current-move button {
   font-weight: bold;
 }
